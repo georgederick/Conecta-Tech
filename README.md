@@ -17,7 +17,7 @@
   <img alt="Projeto acadêmico" src="https://img.shields.io/badge/Projeto-acad%C3%AAmico-0b78e8">
 </p>
 
-<p align="center"><img src="assets/images/capa.png" alt="Tela inicial do ConectaTech" width="820"></p>
+<p align="center"><img src="assets/capa.png" alt="Tela inicial do ConectaTech" width="820"></p>
 
 ## Sobre o projeto
 
